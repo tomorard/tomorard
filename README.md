@@ -1,3 +1,3 @@
 -  Hi, I’m @tomorard
--  I’m interested in learning stuff
--  I’m currently learning HTML/CSS/C#
+-  I’m currently learning Python
+-  I'm currently studying CyberSecurity in college
